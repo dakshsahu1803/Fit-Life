@@ -1,3 +1,7 @@
+// This Spring Boot application serves as a centralized configuration server 
+// using Spring Cloud Config. It enables external configuration management 
+// for distributed microservices architecture.
+
 package com.fitness.configserver;
 
 import org.springframework.boot.SpringApplication;
