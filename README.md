@@ -10,7 +10,6 @@
   <li><strong>Containerization:</strong> Docker, Docker Compose</li>
   <li><strong>Dev Tools:</strong> Postman, GitHub, Swagger UI</li>
 </ul>
-
 <h2>🧩 Microservices Overview</h2>
 <ul>
   <li><strong>user-service</strong> – Handles user registration, authentication, and profiles</li>
