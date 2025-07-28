@@ -1,6 +1,5 @@
 <h1>🏋️‍♂️ FitLife – Microservices-Based Fitness App</h1>
 <p>A modular full-stack fitness tracker built using Spring Boot microservices, secured with Keycloak, and enhanced with Gemini AI for smart workout recommendations.</p>
-
 <h2>🚀 Tech Stack</h2>
 <ul>
   <li><strong>Backend:</strong> Java, Spring Boot, REST APIs</li>
