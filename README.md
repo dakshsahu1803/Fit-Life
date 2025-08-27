@@ -5,7 +5,7 @@
   <li><strong>Backend:</strong> Java, Spring Boot, REST APIs</li>
   <li><strong>Authentication:</strong> Keycloak (JWT, RBAC)</li>
   <li><strong>AI:</strong> Google Gemini API (for generating workouts)</li>
-  <li><strong>Database:</strong> MySQL</li>
+  <li><strong>Database:</strong> PostgreSQL, MongoDB</li>
   <li><strong>Containerization:</strong> Docker, Docker Compose</li>
   <li><strong>Dev Tools:</strong> Postman, GitHub, Swagger UI</li>
 </ul>
