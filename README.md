@@ -4,7 +4,7 @@
 <ul>
   <li><strong>Backend:</strong> Java, Spring Boot, REST APIs</li>
   <li><strong>Authentication:</strong> Keycloak (JWT, RBAC)</li>
-  <li><strong>AI:</strong> Google Gemini API (for generating workouts)</li>
+  <li><strong>AI:</strong> Google Gemini API (for generating recommendations for the user)</li>
   <li><strong>Database:</strong> PostgreSQL, MongoDB</li>
   <li><strong>Containerization:</strong> Docker, Docker Compose</li>
   <li><strong>Dev Tools:</strong> Postman, GitHub, Swagger UI</li>
@@ -12,10 +12,9 @@
 <h2>🧩 Microservices Overview</h2>
 <ul>
   <li><strong>user-service</strong> – Handles user registration, authentication, and profiles</li>
-  <li><strong>workout-service</strong> – Manages workout plans, categories, and logs</li>
-  <li><strong>diet-service</strong> – Manages nutrition and meal plans</li>
+  <li><strong>activityservice-service</strong> – Manages workout plans, categories, and logs</li>
   <li><strong>gateway-service</strong> – API gateway for routing requests and load balancing</li>
-  <li><strong>discovery-service</strong> – Eureka service registry</li>
+  <li><strong>eureka-service</strong> – Eureka service registry</li>
   <li><strong>config-service</strong> – Centralized Spring Cloud Config server</li>
   <li><strong>ai-service</strong> – Uses Gemini API to auto-generate workouts</li>
 </ul>
@@ -73,11 +72,4 @@ fitlife/
 <ul>
   <li><strong>Daksh Sahu</strong></li>
   <li><a href="https://github.com/dakshsahu1803">GitHub</a> | <a href="https://linkedin.com/in/daksh-sahu-65828324b">LinkedIn</a></li>
-</ul>
-
-<h2>📌 Status</h2>
-<ul>
-  <li><strong>Project:</strong> 90% Complete</li>
-  <li>Frontend and CI/CD integration coming soon 🚧</li>
-  <li>Integration with AI coming soon</li>
 </ul>
