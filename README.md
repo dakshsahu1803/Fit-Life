@@ -3,6 +3,7 @@
 <h2>🚀 Tech Stack</h2>
 <ul>
   <li><strong>Backend:</strong> Java, Spring Boot, REST APIs</li>
+   <li><strong>Frontend:</strong> ReactJS </li>
   <li><strong>Authentication:</strong> Keycloak (JWT, RBAC)</li>
   <li><strong>AI:</strong> Google Gemini API (for generating recommendations for the user)</li>
   <li><strong>Database:</strong> PostgreSQL, MongoDB</li>
@@ -18,7 +19,6 @@
   <li><strong>config-service</strong> – Centralized Spring Cloud Config server</li>
   <li><strong>ai-service</strong> – Uses Gemini API to auto-generate workouts</li>
 </ul>
-
 <h2>🛠️ Getting Started</h2>
 <ol>
   <li>Clone the repository:<br>
