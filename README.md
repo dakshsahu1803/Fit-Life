@@ -67,7 +67,6 @@ fitlife/
 ├── config-service/
 ├── docker-compose.yml
 </pre>
-
 <h2>👤 Author</h2>
 <ul>
   <li><strong>Daksh Sahu</strong></li>
